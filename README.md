@@ -12,7 +12,8 @@ then create an API key
 
 **Importing the packages**
 
-In the IDE's terminal type ```pip install google-generativeai```\
+In the IDE's terminal type ```pip install virtualenv```\
+then type ```pip install google-generativeai```\
 then type ```pip install scratchattach```
 
 **Replacing some code**
