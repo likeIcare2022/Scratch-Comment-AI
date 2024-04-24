@@ -4,7 +4,7 @@
 [python](https://www.python.org/downloads/)
 
 **IDE Download**\
-[pycharm](https://www.jetbrains.com/pycharm/)
+[pycharm](https://www.jetbrains.com/pycharm/) download the community version (below the professional)
 
 **API Key Setup**\
 Go to this [link](https://aistudio.google.com/app/apikey)
