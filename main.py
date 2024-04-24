@@ -3,9 +3,9 @@ import time
 import scratchattach as scratch3
 
 
-session = scratch3.login("RECTIONPROBE-34", "PROBE#34SRL-483")
+session = scratch3.login("USERNAME GOES HERE", "PASSWORD GOES HERE") #For the account you want to use
 model = palm.GenerativeModel('gemini-pro')
-palm.configure(api_key="AIzaSyCNkWYyP4SkoEXasZz32YcvH2Y1towxx_Y")
+palm.configure(api_key="YOUR GOOGLE API KEY HERE")
 project = session.connect_project(int(input(": ")))
 
 
